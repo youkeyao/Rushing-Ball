@@ -1,2 +1,2 @@
 # Drag the ball to the hole!
-An easy game made by pygame.
+An easy game implemented by pygame.
